@@ -11,7 +11,7 @@ tags: [rails, postgres, heroku, cmd]
 - visit https://devcenter.heroku.com/articles/heroku-cli
 - select 64 or 32 bit version
 
-![image](https://github.com/snuffle-truffle/snuffle-truffle.github.io/blob/main/assets/2022-04-26-heroku-cli-powershell/1.png)
+![Desktop View](https://github.com/snuffle-truffle/snuffle-truffle.github.io/blob/main/assets/2022-04-26-heroku-cli-powershell/1.png)
 
 - next -> next -> ... -> done
 
