@@ -11,7 +11,7 @@ tags: [rails, postgres, heroku, cmd]
 - visit https://devcenter.heroku.com/articles/heroku-cli
 - select 64 or 32 bit version
 
-![image](assets/2022-04-26-heroku-cli-powershell/1.png)
+![image](../assets/2022-04-26-heroku-cli-powershell/1.png)
 
 - next -> next -> ... -> done
 
@@ -33,11 +33,11 @@ heroku login
 
 - redirect to web adress for login
 
-![image](assets/2022-04-26-heroku-cli-powershell/3.png)
+![image](../assets/2022-04-26-heroku-cli-powershell/3.png){: width="300"}
 
-![image](assets/2022-04-26-heroku-cli-powershell/4.png)
+![image](../assets/2022-04-26-heroku-cli-powershell/4.png){: width="300"}
 
-![image](assets/2022-04-26-heroku-cli-powershell/5.png)
+![image](../assets/2022-04-26-heroku-cli-powershell/5.png){: width="300"}
 
 - heroku CLI is logged now
 
