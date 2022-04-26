@@ -13,6 +13,8 @@ tags: [rails, postgres, heroku, cmd]
 
 ![Desktop View](https://github.com/snuffle-truffle/snuffle-truffle.github.io/blob/main/assets/2022-04-26-heroku-cli-powershell/1.png)
 
+<img src="https://github.com/snuffle-truffle/snuffle-truffle.github.io/blob/main/assets/2022-04-26-heroku-cli-powershell/1.png" width="100">
+
 - next -> next -> ... -> done
 
 ## Test if heroku is installed
