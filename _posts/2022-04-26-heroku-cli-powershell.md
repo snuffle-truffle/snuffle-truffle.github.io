@@ -33,9 +33,11 @@ heroku login
 
 - redirect to web adress for login
 
-![image](assets/2022-04-26-heroku-cli-powershell/3.png){: width="300" }
-![image](assets/2022-04-26-heroku-cli-powershell/4.png){: width="300" }
-![image](assets/2022-04-26-heroku-cli-powershell/5.png){: width="300" }
+![image](assets/2022-04-26-heroku-cli-powershell/3.png)
+
+![image](assets/2022-04-26-heroku-cli-powershell/4.png)
+
+![image](assets/2022-04-26-heroku-cli-powershell/5.png)
 
 - heroku CLI is logged now
 
