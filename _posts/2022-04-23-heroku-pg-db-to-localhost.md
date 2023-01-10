@@ -8,6 +8,8 @@ tags: [rails, postgres, heroku, wsl2]
 
 This topic covers how to transfer data from the Postgres database of you application hosted on Heroku to your local machine. All commands are run in emulated Ubuntu under WSL2 on Windows 10.
 
+DEJV
+
 ## Just commands
 ---
 ```console
